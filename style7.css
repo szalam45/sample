@@ -1,0 +1,35 @@
+
+.classname{
+    color: orange;
+}
+#first{
+    color:green;
+}
+.one,#three{
+    color:lime;
+}
+.two{
+    color:yellow;
+}
+.four{
+    color:pink;
+}
+body{
+    background-color:skyblue;
+    font-family:helvetica,sans-serif;
+    color:white;
+    margin: 20px 50px 5px 20px;
+}
+.top,#top{
+    background-color:blue;
+}
+.bottom,#bottom{
+    background-color:silver;
+    color:blue;
+}
+.tip{
+    color:green;
+}
+.ship{
+    color:gray;
+}
